@@ -1,0 +1,6 @@
+This going to be group project. The input will be a course number and the number of days that the course is to be
+scheduled and a list of available rooms. The input will be a data files with this data.The output will be
+a) a listing of all scheduled sections with course number, section number,
+start time, end time and room number;
+b) a selection of room numbers with a weekly grid of each course section
+that is scheduled for that room.
